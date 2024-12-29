@@ -98,7 +98,9 @@
     "winston": "^3.17.0",
     "winston-daily-rotate-file": "^5.0.0",
     "request-ip": "3.3.0",
-    "ip2region": "2.3.0"
+    "ip2region": "2.3.0",
+    "keyv": "^5.2.3",
+    "@keyv/sqlite": "^4.0.1"
   },
   "devDependencies": {
     "moment": "2.30.1",
